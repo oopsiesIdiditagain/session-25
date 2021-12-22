@@ -1,5 +1,5 @@
 class Student:
-    #creating constructor
+    #creating constructor :>
     def __init__(self):
         self.student_name = input("\nEnter Name of the Student: ")
         self.student_age = input("Enter the age of the Student: ")
